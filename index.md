@@ -7,5 +7,6 @@ Hola!, soy estudiante de tercer año de ingeniería biológica. Me encanta apren
 - Deporte
 
 Quiero aprender hartas cosas en este ramo, permitiendome crear proyectos interesantes desde mi casa en colaboración con otras personas del otro lado del mundo.
-<img alt="Serie buena" src="PKwyo.github.io/webbb.png"
+
+<img alt="Serie buena" src="webbb.png"
 width="500">
