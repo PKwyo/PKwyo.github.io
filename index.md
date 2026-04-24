@@ -8,5 +8,6 @@ Hola!, soy estudiante de tercer año de ingeniería biológica. Me encanta apren
 
 Quiero aprender hartas cosas en este ramo, permitiendome crear proyectos interesantes desde mi casa en colaboración con otras personas del otro lado del mundo.
 
+### Una de mis series favoritas
 <img alt="Serie buena" src="webbb.png"
 width="500">
